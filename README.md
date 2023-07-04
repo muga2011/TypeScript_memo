@@ -1,0 +1,2 @@
+# TypeScript_memo
+TypeScriptのメモです。
